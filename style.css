@@ -1,0 +1,46 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 2px;
+    color: rgb(179, 255, 0);
+}
+.fast{
+    color: green;
+    text-align: center;
+}
+.second{
+    color: red;
+    text-align: center;
+}
+.tree{
+    text-align: center;
+
+}
+section{
+    display: flex;
+}
+.half-withd{
+    width: 50%;
+    padding: 9%;
+    font-weight: 400;
+}
+.half-withd img{
+    width: 140%;
+    margin-bottom: 8%;
+
+}
+.link-batton{    
+    text-decoration: none;
+       background-image: linear-gradient(red green);   
+
+    background-color:orange;
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-size: 1.3em;
+  
+}
+.top-bannar{
+    background-image: url(pexels-johannes-plenio-1103970.jpg);
+    background-repeat: no-repeat;
+}
+
+   
