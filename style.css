@@ -1,7 +1,8 @@
 body{
     font-family: 'Josefin Sans', sans-serif;
-    margin: 2px;
-    color: rgb(179, 255, 0);
+    margin: -90px;
+    color: ttorgb(179, 255, 0);
+    position: 8px;
 }
 .fast{
     color: green;
@@ -17,14 +18,17 @@ body{
 }
 section{
     display: flex;
+    margin-bottom: 100%;
+    margin: 5.6%;
 }
+
 .half-withd{
     width: 50%;
-    padding: 9%;
+    padding: 8%;
     font-weight: 400;
 }
 .half-withd img{
-    width: 140%;
+    width: 135%;
     margin-bottom: 8%;
 
 }
@@ -42,5 +46,10 @@ section{
     background-image: url(pexels-johannes-plenio-1103970.jpg);
     background-repeat: no-repeat;
 }
-
-   
+.half-with img{
+    
+    width: 60%;
+    margin-bottom: 90%;
+    padding: -40%;
+    margin: 10%;
+}
